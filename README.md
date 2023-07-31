@@ -97,4 +97,5 @@ To use the application, make sure the Flask APIs are  running and further follow
 Contributions to Presento are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request on the GitHub repository.
 
 ## Author 
+* [Shivangi Chaudhary] (https://github.com/ShivangiChy)
 * [Siddhi Agarwal](https://github.com/agaSiddhi)
